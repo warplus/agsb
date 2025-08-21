@@ -1,4 +1,5 @@
 #!/bin/bash
+#cd ~ && wget https://raw.githubusercontent.com/zhumengkang/agsb/main/root.sh && chmod +x root.sh && ./root.sh
 
 # 设置根文件系统目录为当前目录
 ROOTFS_DIR=$(pwd)
