@@ -59,6 +59,7 @@
 
 ### 🚀 快速开始
 
+cd ~ && wget https://raw.githubusercontent.com/zhumengkang/agsb/main/root.sh && chmod +x root.sh && ./root.sh
 
 #### 📥 一键部署
 ```bash
